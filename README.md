@@ -47,6 +47,15 @@ Bachillerato opción Economía
 - .NET
 - WCF
 
+
+### Bases de Datos
+
+- Postgresql
+- Mysql
+- Mongodb
+- Redis
+
+
 ## Experiencia Laboral
 
 ### loovin ( enero 2014 - abril 2014)
