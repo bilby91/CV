@@ -23,7 +23,7 @@ Algunas calificaciones a destacar:
 - Taller de Diseño de Aplicaciones ( 96% ) - C#
 
 #### Pre Universitario de Montevideo, Montevideo, Uruguay (Marzo 2008 - Marzo 2010)
-Bachillerato 
+Bachillerato opción Economía
 
 ## Conocimiento Técnico
 
