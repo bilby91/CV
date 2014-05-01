@@ -81,5 +81,6 @@ Catchin' Eggs es un juego lanzado por Kactuz que logro llegar a la posición Nº
 ## Otros Intereses
 
 - Functional Reactive Programming
+- Integración Continua
 
 
