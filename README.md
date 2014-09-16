@@ -58,6 +58,10 @@ Bachillerato opción Economía
 
 ## Experiencia Laboral
 
+### moove-it (abril 2014 - presente)
+
+Desarrollador de applicaciones mobiles en iOS y applicaciones web en Ruby on Rails.
+
 ### loovin ( enero 2014 - abril 2014)
 
 Encargado de la aplicación en iOS. Utilizamos muchos de los frameworks del SDK como UIKit, CoreData, CoreAnimation, CoreGraphics, AVFoundation, XCTest y Social entre otros. 
